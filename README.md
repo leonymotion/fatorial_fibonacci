@@ -1,6 +1,6 @@
 # fatorial_fibonacci
 
-Este projeto contém funções implementadas em Python para calcular o **fatorial** e a sequência de **Fibonacci**. Ele serve como um exemplo básico para estudantes ou interessados em algoritmos matemáticos simples utilizando a linguagem Python.
+Este projeto contém funções implementadas em Python para calcular o **fatorial** e a sequência de **Fibonacci**.
 
 ## Funcionalidades
 
@@ -16,12 +16,9 @@ Este projeto contém funções implementadas em Python para calcular o **fatoria
    ```
 
 2. **Execute o arquivo principal:**
-   ```bash
-   python nome_do_arquivo.py
-   ```
-   *(Substitua `nome_do_arquivo.py` pelo nome do arquivo que contém as funções.)*
+3. 
 
-3. **Exemplo de uso das funções:**
+4. **Exemplo de uso das funções:**
    ```python
    from nome_do_arquivo import fatorial, fibonacci
 
